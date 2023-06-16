@@ -89,3 +89,5 @@ operações básicas de CRUD em banco de dados.
 	H) Data da entrega: Até o dia 16-06-2023, até às 23:59. Emails com trabalhos enviados após
   	esse horário e essa data não serão corrigidos. Problemas técnicos na entrega são de
   	responsabilidade do aluno (a).
+
+Aluno: Fernando José Tozato de Siqueira. 202202760811.
